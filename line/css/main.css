@@ -1,0 +1,51 @@
+@import url(common.css);
+.global h1 {
+    font-size: 40px;
+    color: #1d1d1d;
+    font-weight: 800;
+    margin: 230px 0 40 0;
+}
+.global h2 {
+    font-size: 17px;
+    color: #00b900;
+    margin: 30px 0 18px 0;
+}
+.global p {
+font-size: 17px;
+color: #555555;
+
+}
+.global a {
+    background: #fff;
+    width: 137px;
+    height: 37px;
+    outline: #00b900;
+    color: #00b900;
+    stroke: #00b900;
+    margin: 37px 0 43px 0 ;
+    
+  
+}
+.sticker .wrapper  {
+    text-align: center;
+}
+.sticker h1 {
+    background:url(../images/line.jpg) no-repeat center center/ cover;
+    height: 643px;
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+    margin: 133px auto;
+}
+
+.sticker p {
+    color: #fff;
+    margin: 32px 0 40px 0;
+}
+
+.sticker a {
+    color: #fff;
+    background: #fff;
+    stroke: #fff;
+    
+}
